@@ -1,0 +1,243 @@
+body {
+  margin: 0;
+  border: 0;
+}
+
+h1 {
+  margin: 0;
+  border: 0;
+  font-family: 'Muli', sans-serif;
+  font-size: 4.2rem;
+  color: white;
+  margin-left: 300.5px;
+}
+
+h2 {
+  margin: 0;
+  border: 0;
+  font-family: 'Lato', sans-serif;
+  font-size: 2.8rem;
+  padding-top: 25px;
+  padding-left: 530px;
+}
+
+
+h3 {
+  color: white;
+  margin: 0;
+  border: 0;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+}
+
+td {
+  padding-top: 50px;
+}
+
+.final {
+  color: black;
+  font-size: 2.4rem;
+  font-family: 'Lato', sans-serif;
+
+}
+
+
+.nav-text {
+  display: inline;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.9rem;
+  margin-left: 10px;
+
+}
+
+.logo-1 {
+  margin-top: 10px;
+  height: 30px;
+  width: 30px;
+  margin-left: 300px;
+
+}
+
+
+.logo-1 :hover {
+  margin-top: 10px;
+  height: 35px;
+  width: 35px;
+  margin-left: 300px;
+}
+
+.logo-2 {
+  display: inline;
+  height: 40px;
+  width: 40px;
+  margin-left: 10px;
+}
+
+.logo-3 {
+  display: inline;
+  margin-top: px;
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+}
+
+.logo-4 {
+  display: inline;
+
+  height: 30px;
+  width: 30px;
+  margin-left: 15px;
+}
+
+
+.myself {
+  display: inline;
+  float: right;
+  position: absolute;
+  left: 680px;
+  top: 140px;
+}
+
+.top-con-text {
+
+  color: #32e0c4;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  padding-top: 70px;
+  padding-left: 300px;
+  padding-bottom: 5px;
+  border: 0;
+  margin: 0;
+}
+
+.top-con-text-2 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.3rem;
+  padding-left: 10px;
+  padding-bottom: 15px;
+  padding-left: 300px;
+  border: 0;
+  margin: 0;
+}
+
+
+.top-nav {
+  background-color: #222831;
+  height: 60px;
+  width: 100%;
+}
+
+.navbar-logo {
+  padding-left: 20px;
+  padding-top: 10px;
+  height: 40px;
+  width: 40px;
+}
+
+.second-nav {
+    background-color: #393e46;
+    height: 350px;
+    width: 83%;
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 50px;
+
+}
+
+
+
+
+.third-nav {
+
+    height: 387px;
+    width: 100%;
+}
+
+.fourth-nav {
+    background-color: #eeeeee;
+    height: 1600px;
+    width: 100%;
+}
+
+.bottom-nav-top {
+    background-color: #32e0c4;
+    height: 20px;
+    width: 100%;
+}
+.bottom-nav-middle {
+    background-color: #393e46;
+    height: 40px;
+    width: 100%;
+}
+.bottom-nav {
+    background-color: #222831;
+    height: 150px;
+    width: 100%;
+}
+
+.about-me {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  height: 50px;
+  width: 600px;
+  padding-left: 250px;
+}
+
+.face {
+  position: absolute;
+  top: 500px;
+  right: 180px;
+  height: 250px;
+  width: 250px;
+}
+
+.left-skill {
+
+  margin: 0;
+  border: 0;
+  color: black;
+  height: 100px;
+  width: 590px;
+}
+
+.right-skill {
+  position: inline;
+  float: right;
+  color: black;
+  height: 100px;
+  width: 600px;
+}
+
+.right-skill-1 {
+  padding-right: 10px;
+}
+
+.skill-title {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.9rem;
+}
+
+.skills-logo {
+  height: 200px;
+  width: 200px;
+  padding-left: 20px;
+  padding-right: 20px;
+  float: left;
+}
+
+.bottom-con-text {
+
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  padding-top: 60px;
+  padding-bottom: 5px;
+  border: 0;
+  margin: 0;
+}
